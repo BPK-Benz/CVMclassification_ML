@@ -39,8 +39,8 @@ This project is based on annotation data from [CVMS_Classification](https://gith
 2. Confirm the position of these 19 points on each image using `view.py`.
 3. Convert the labeled points into relevant features such as size, shape, and concavity using `pointTofeature.py`.
 4. The original 6-class labels (CS1–CS6) were reclassified into two alternative formats using a majority voting system:
-   4.1 5-class format: CS1 and CS2 were merged into CVMS I, with CS3–CS6 mapped sequentially to CVMS II–V.
-   4.2 3-class format: Stages were grouped by growth phase — CS1–CS2 as pre-pubertal, CS3–CS4 as pubertal, and CS5–CS6 as post-pubertal.
+   - 5-class format: CS1 and CS2 were merged into CVMS I, with CS3–CS6 mapped sequentially to CVMS II–V.
+   - 3-class format: Stages were grouped by growth phase — CS1–CS2 as pre-pubertal, CS3–CS4 as pubertal, and CS5–CS6 as post-pubertal.
 
 ## Requirements
 
