@@ -1,0 +1,6 @@
+,0
+C,0.1
+coef0,0.1
+degree,2
+gamma,scale
+kernel,linear

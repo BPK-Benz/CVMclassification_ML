@@ -1,0 +1,6 @@
+,0
+activation,tanh
+alpha,0.05
+hidden_layer_sizes,"(31, 16)"
+learning_rate,adaptive
+solver,sgd
