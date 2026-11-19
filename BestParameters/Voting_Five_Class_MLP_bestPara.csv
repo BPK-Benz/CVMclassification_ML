@@ -1,6 +1,6 @@
 ,0
-activation,tanh
+activation,relu
 alpha,0.05
-hidden_layer_sizes,"(31, 16)"
-learning_rate,adaptive
+hidden_layer_sizes,"(22, 11, 5)"
+learning_rate,constant
 solver,sgd

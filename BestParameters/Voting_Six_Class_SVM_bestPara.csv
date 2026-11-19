@@ -1,6 +1,6 @@
 ,0
-C,0.1
-coef0,0.1
-degree,2
-gamma,scale
-kernel,linear
+C,200
+coef0,0.5
+degree,3
+gamma,0.001
+kernel,poly
