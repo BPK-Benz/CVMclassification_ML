@@ -1,6 +1,6 @@
 ,0
-C,200
-coef0,0.5
-degree,4
+C,100
+coef0,0
+degree,2
 gamma,0.001
 kernel,rbf

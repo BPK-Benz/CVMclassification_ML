@@ -1,4 +1,4 @@
 ,0
-C,6.185409469856231
+C,10000.0
 penalty,l2
 solver,lbfgs
